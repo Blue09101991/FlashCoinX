@@ -28,12 +28,14 @@ const ContactInfo = () => {
       title: "Email",
       icon: <IconMail className="md:w-10 md:h-10 sm:w-8 sm:h-8 w-6 h-6" />,
       email1: "bluewonder0929@gmail.com",
+      email2: "bluewonder0929@gmail.com",
     },
     {
       id: 1,
       title: "Phone",
       icon: <IconPhone className="md:w-10 md:h-10 sm:w-8 sm:h-8 w-6 h-6" />,
       phone1: "+15404436640",
+      phone2: "+15404436640",
     },
     {
       id: 1,
