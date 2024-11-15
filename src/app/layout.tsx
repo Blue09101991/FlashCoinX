@@ -4,9 +4,9 @@ import "./globals.css";
 import { lexend, poppins, roboto } from "@/config/font";
 
 export const metadata: Metadata = {
-  title: " Coinx - Web3 Crypto Website Template",
+  title: " FlashCoinX - Advanced Flash Crypto Sender Solution",
   description:
-    "Coinx, a react next js  template, is ideal for Web3, crypto, and blockchain websites. Featuring sleek design, interactive elements, and seamless animations and Effortlessly craft integration pages, user-friendly Design, engaging CTAs, and transparent pricing with Coinx. Unleash crypto's potential with Coinx.",
+    "FlashCoinX, a powerful Next.js solution, is designed for secure and efficient flash crypto transactions, supporting USDT TRC-20, BTC, and more. With seamless integration, instant on-chain confirmation, and high-volume transfer capabilities, FlashCoinX provides an ideal solution for institutions and high-frequency crypto users. Experience enhanced security, multi-platform compatibility, and round-the-clock support.",
 };
 
 export default function RootLayout({
