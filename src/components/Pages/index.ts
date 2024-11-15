@@ -1,0 +1,56 @@
+import HomeBanner from './home/HomeBanner';
+import Web3Products from './home/Web3Products';
+import Markets from './home/Markets';
+import GetStarted from './home/GetStarted';
+import DiscoverWeb3 from './home/DiscoverWeb3';
+import Exchange from './home/Exchange';
+import DigitalWorld from './home/DigitalWorld';
+import CriptoTranding from './home/CriptoTranding';
+import EarnAndSavings from './home/EarnAndSavings';
+import CryptoExchange from './home/CryptoExchange';
+import StakingPolls from './StakingPools/StakingPolls';
+import StakingPollsSlider from './StakingPools/StakingPollsSlider';
+import StakingProcess from './StakingPools/StakingProcess';
+import StakingPoolDetailsSection from './StakingPoolsDetails/StakingPoolDetailsSection';
+import MarketDashboard from './Swap/MarketDashboard';
+import MarketCurrencyChart from './Swap/MarketCurrencyChart';
+import ExchangeCard from './Swap/ExchangeCard';
+import SummaryChart from './Swap/SummaryChart';
+import CategoryCurrencyCards from './Swap/CategoryCurrencyCards';
+import Participate from './SwapHoldShare/Participate';
+import SwapUSDC from './SwapHoldShare/SwapUSDC';
+import EventRules from './SwapHoldShare/EventRules';
+import CompletedProjects from './Ido/CompletedProjects';
+import Join from './Ido/Join';
+import IdoBanner from './IdoDetails/IdoBanner';
+import IdoDetailsSection from './IdoDetails/IdoDetailsSection';
+import IdoDetails from './IdoDetails/IdoDetails';
+import IdoTimeline from './IdoDetails/IdoTimeline';
+import ContactForm from './Contact/ContactForm';
+import ContactInfo from './Contact/ContactInfo';
+import ContactSection from './Contact/ContactSection';
+import GoogleMap from './Contact/GoogleMap';
+import PricingPlanSection from './PricingPlan/PricingPlanSection';
+import ChoosePlan from './PricingPlan/ChoosePlan';
+import RewardsSection from './Rewards/RewardsSection';
+import TermsAndConditionsSection from './TermsAndConditions/TermsAndConditionsSection';
+import BlogsSection from './Blogs/BlogsSection';
+import FeatureBlog from './Blogs/FeatureBlog';
+import BlogDetailsSection from './BlogDetails/BlogDetailsSection';
+import BlogAuthor from './BlogDetails/BlogAuthor';
+import RecentNewsSection from './BlogDetails/RecentNewsSection';
+import CryptoOffersAndDeal from './CryptoBuy/CryptoOffersAndDeal';
+import TopUpMethod from './CryptoBuy/TopUpMethod';
+import BuyCryptoSection from './CryptoBuy/BuyCryptoSection';
+import ApexLoginArea from './Apex/ApexLoginArea';
+import ApexDashboard from './Apex/ApexDashboard';
+import OrderBook from './Apex/OrderBook';
+import ApexPositionList from './Apex/ApexPositionList';
+import ApexHeader from './Apex/ApexHeader';
+import TasksTab from './Rewards/TasksTab';
+import AirdropsTab from './Rewards/AirdropsTab';
+
+
+export { HomeBanner, Web3Products, Markets, GetStarted, DiscoverWeb3, Exchange, DigitalWorld, CriptoTranding, EarnAndSavings, CryptoExchange, StakingPolls, StakingPollsSlider, StakingProcess, StakingPoolDetailsSection, MarketDashboard, MarketCurrencyChart, ExchangeCard, SummaryChart, CategoryCurrencyCards, Participate, SwapUSDC, EventRules, CompletedProjects, Join, IdoBanner, IdoDetailsSection, IdoDetails, IdoTimeline, ContactForm, ContactInfo, ContactSection, GoogleMap, PricingPlanSection, ChoosePlan, RewardsSection, TermsAndConditionsSection, BlogsSection, FeatureBlog, BlogDetailsSection, BlogAuthor, RecentNewsSection, CryptoOffersAndDeal, TopUpMethod, BuyCryptoSection, ApexLoginArea, ApexDashboard, OrderBook, ApexPositionList, ApexHeader, TasksTab, AirdropsTab, };
+
+
