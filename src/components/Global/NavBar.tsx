@@ -3,7 +3,7 @@
 import {
   default as brandLogo,
   default as brandLogoLg,
-} from "@/../public/images/Coinx.svg";
+} from "@/../public/images/Coinx.png";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -127,7 +127,7 @@ const NavBar = () => {
                 href="mailto:example@gmail.com"
                 className="my-text-16 text-black"
               >
-                example@gmail.com
+                bluewonder0929@gmail.com
               </Link>
             </div>
           </div>
@@ -141,7 +141,7 @@ const NavBar = () => {
                   Contact Us:
                 </h6>
                 <Link href="tel:+9800009999" className="my-text-1 text-BG mb-1">
-                  +980 000 9999
+                  +1(540)443-6640
                 </Link>
               </div>
             </div>
@@ -176,7 +176,7 @@ const NavBar = () => {
           {/* Desktop Menu */}
           <nav className="w-full xl:flex justify-between items-center text-black hidden text-semibold">
             <Link href="/">
-              <Image width={82} height={38} src={brandLogo} alt="coinx" />
+              <Image width={170} height={38} src={brandLogo} alt="coinx" />
             </Link>
             <div>
               <ul className="flex justify-center items-center gap-3 lg:gap-5">
@@ -231,7 +231,7 @@ const NavBar = () => {
             <div className="flex items-center flex-wrap gap-5 font-inter text-lg font-medium md:leading-[30px] leading-6 relative">
               <NavSearchBar />
               <button onClick={handleModal} className="btn btn-primary">
-                Connect Wallet
+                Get Started
               </button>
             </div>
           </nav>
@@ -240,7 +240,7 @@ const NavBar = () => {
             <div className="relative">
               <Link href="/" aria-label="logo_main">
                 <div className="flex gap-2 items-center">
-                  <Image width={48} height={55} src={brandLogo} alt="coinx" />
+                  <Image width={150} height={100} src={brandLogo} alt="coinx" />
                 </div>
               </Link>
               <div
